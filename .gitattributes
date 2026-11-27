@@ -1,0 +1,4 @@
+* text=auto
+# Windows line endings for the files DraftSight users open directly
+*.lsp text eol=crlf
+*.csv text eol=crlf
